@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151424903455",
+    "project_id": "praktisi-mengajar-pnb",
+    "storage_bucket": "praktisi-mengajar-pnb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151424903455:android:a83e1f0ec6c5c17f8c682a",
+        "android_client_info": {
+          "package_name": "com.pnb.firebase.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrtfESziPTQe_7yQDFidqpJESIVYgI9RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
